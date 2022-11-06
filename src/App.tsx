@@ -37,7 +37,7 @@ function App() {
 
     async function changeWork() {
         try {
-            const response = await fetch('http://localhost:8081/beer/work', {
+            const response = await fetch('https://kardibus-temp.herokuapp.com/beer/work', {
                 method: 'POST',
                 body: JSON.stringify({
                     work: work
