@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667665526775</updated>
-      <workItem from="1667665528420" duration="17160000" />
+      <workItem from="1667665528420" duration="17517000" />
     </task>
     <task id="LOCAL-00001" summary="замена хоста">
       <created>1667742651813</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667749256513</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="замена хоста">
+      <created>1667749591018</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667749591018</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
