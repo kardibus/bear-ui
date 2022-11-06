@@ -10,12 +10,7 @@ export function Program(props: ProgramProps) {
     return (
         <div>
             <div>
-                <a>ID :</a>
-                <a> {props.programs.id} </a>
-                <a> NAME :</a>
-                <a> {props.programs.name} </a>
-                <a>WORK :</a>
-                <a> {props.programs.work.valueOf()} </a>
+                <h1> {props.programs.id} </h1>
             </div>
         </div>
     )
